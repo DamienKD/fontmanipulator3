@@ -1,0 +1,21 @@
+.note
+{
+    color: white;
+}
+
+.heading
+{
+    color: white;
+}
+
+.copyrightfooter
+{
+    background: red;
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+
+}
+
